@@ -1,0 +1,1 @@
+{"name":"Local: min-max-inArray","url":"a:\\git\\array\\min-max-inArray.cpp","tests":[{"id":1651900164039,"input":"8\n11 23 25 0 2 -5 5 120","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\git\\array\\min-max-inArray.cpp","group":"local","local":true}
