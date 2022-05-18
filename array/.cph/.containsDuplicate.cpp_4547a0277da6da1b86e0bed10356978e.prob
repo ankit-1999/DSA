@@ -1,0 +1,1 @@
+{"name":"Local: containsDuplicate","url":"a:\\git\\array\\containsDuplicate.cpp","tests":[{"id":1652609227000,"input":"5\n1 2 3 8 5","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\git\\array\\containsDuplicate.cpp","group":"local","local":true}

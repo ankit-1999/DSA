@@ -1,0 +1,1 @@
+{"name":"Local: bestTimeToBuyAndSellStock","url":"a:\\git\\array\\bestTimeToBuyAndSellStock.cpp","tests":[{"id":1652890082263,"input":"6\n7 1 5 3 6 4","output":"5"},{"id":1652890247231,"input":"5\n7 6 4 3 1","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\git\\array\\bestTimeToBuyAndSellStock.cpp","group":"local","local":true}
